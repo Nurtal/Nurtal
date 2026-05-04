@@ -1,2 +1,2 @@
 
-[![social banner](https://github.com/Nurtal/Nurtal/banner.png)]
+[![social banner](https://github.com/Nurtal/Nurtal/blob/main/banner.png)]
